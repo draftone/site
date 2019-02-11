@@ -1,11 +1,10 @@
 # Welcome to draftone
 
-## example
+[About](About)
 
-[機械学習](https://github.com/draftone/training_ml)
+## 各種Example
 
-
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+[Examples](examples)
 
 ## Commands
 
