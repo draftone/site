@@ -1,4 +1,9 @@
-# Welcome to MkDocs
+# Welcome to draftone
+
+## example
+
+[機械学習](https://github.com/draftone/training_ml)
+
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 

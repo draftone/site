@@ -1,1 +1,19 @@
-site_name: My Docs
+site_name: draftone
+site_description: '色々'
+site_author: 'draftone'
+site_url: 'https://draftone.github.io/site/'
+
+# Copyright
+copyright: 'Copyright (c) 2019'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme:
+  name: 'material'
+  palette:
+    primary: 'Indigo'
+    accent: 'Orange'
+  language: 'ja'
+  feature:
+    tabs: true
+
