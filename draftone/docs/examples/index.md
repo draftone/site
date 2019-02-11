@@ -4,6 +4,8 @@
 
 ## Python関連
 
+[matplotlib](matplotlib)
+
 [NumPy](numPy)
 
 [Pandas](pandas)
