@@ -17,3 +17,9 @@ theme:
   feature:
     tabs: true
 
+# Extensions
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: '#'
+
